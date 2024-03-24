@@ -20,14 +20,18 @@ forked starter code from (https://github.com/safak/animated-portfolio/tree/start
 My forked github (https://github.com/saideep2000/animated-portfolio)
 
 
-
-
-
-
 ### Things Used
 
 We have used 
 
 (https://youtu.be/CHGHuF24Cjw)
+
+### Automate Workflow:
+
+https://eliteionic.com/tutorials/simple-project-management-workflow-for-ionic-developers/
+
+Project link:
+
+https://github.com/users/saideep2000/projects/2
 
 # animated_portfolio
