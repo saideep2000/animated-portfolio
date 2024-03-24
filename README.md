@@ -31,7 +31,6 @@ We have used
 https://eliteionic.com/tutorials/simple-project-management-workflow-for-ionic-developers/
 
 Project link:
-
 https://github.com/users/saideep2000/projects/2
 
 # animated_portfolio
