@@ -33,4 +33,9 @@ https://eliteionic.com/tutorials/simple-project-management-workflow-for-ionic-de
 Project link:
 https://github.com/users/saideep2000/projects/2
 
+Pull Request Demo:
+
+https://youtu.be/rDcswW9NOnc?list=PLvLBrJpVwC7qoGgSqx-WGQG_x8VmCMwIa
+
+
 # animated_portfolio
